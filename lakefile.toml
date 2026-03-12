@@ -1,0 +1,11 @@
+name = "IMonad"
+version = "0.1.0"
+defaultTargets = ["IMonad"]
+
+[leanOptions]
+pp.unicode.fun = true
+pp.fieldNotation = false
+autoImplicit = false
+
+[[lean_lib]]
+name = "IMonad"
