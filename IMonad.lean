@@ -1,1 +1,2 @@
-import IMonad.Basic
+import IMonad.IndexedMonad
+import IMonad.Kleisli
