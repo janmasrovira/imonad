@@ -1,5 +1,5 @@
 import IMonad.Base
-import IMonad.IndexedMonad
+import IMonad.Indexed
 
 variable
   {I : Type}
